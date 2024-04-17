@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.error {
+    color: red;
+}
+
+.logout-link {
+    color: #007bff;
+}
+
+.logout-link:hover {
+    text-decoration: underline;
+}
